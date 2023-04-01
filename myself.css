@@ -1,0 +1,44 @@
+
+
+
+
+.sky{
+    
+    background-image:  url('../../../Downloads/nature3.webp');
+    background-position: center;
+    background-size: cover;
+    background-repeat:no-repeat ;
+    /* background-color: black; */
+
+    
+}
+
+
+
+.list{
+    /* padding-left: 370px; */
+    color: bisque;
+}
+
+
+
+.class{
+    /* background-image: url("../../../Pictures/me.PNG"); */
+  /* background-repeat: no-repeat;
+  background-position: right top;
+  width: 40%;
+  height: 60px; */
+
+  /* border-radius: 50%; */
+  text-align: center;
+  color: aliceblue;
+}
+
+.class1{
+    color: white;
+
+}
+
+.cool{
+    background-color: rgb(56, 56, 56);
+}
